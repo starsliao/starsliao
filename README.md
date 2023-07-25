@@ -5,9 +5,6 @@
 
 ### 💎 我的推荐项目
 
-<details open>
-<summary>点击展开 ...</summary>
-
 |                        Project                         |                            Stars                              |                            Forks                             |              Remark              |
 | :----------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------: |
 | [ConsulManager](https://github.com/starsliao/ConsulManager) | ![](https://img.shields.io/github/stars/starsliao/ConsulManager?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/starsliao/ConsulManager?color=ba86eb&logo=Handshake&logoColor=ea6aa6) | ConsulManager是一个使用Flask+Vue开发，基于Consul的WEB运维平台，弥补了Consul官方UI对Services管理的不足；并且基于Consul的服务发现与键值存储：实现了各云厂商多种资源与Prometheus的无缝同步，以及对各类监控资源的优雅管理与展示。 |
@@ -15,7 +12,6 @@
 | [PythonTools](https://github.com/starsliao/PythonTools) | ![](https://img.shields.io/github/stars/starsliao/PythonTools?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/starsliao/PythonTools?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  Python写的小工具集合  |
 | [StarsL.cn](https://github.com/starsliao/StarsL.cn) | ![](https://img.shields.io/github/stars/starsliao/StarsL.cn?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/starsliao/StarsL.cn?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  StarsL.cn  |
 | [multi_mysqld_exporter](https://github.com/starsliao/multi_mysqld_exporter) | ![](https://img.shields.io/github/stars/starsliao/multi_mysqld_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/starsliao/multi_mysqld_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  Multi-target support  |
-</details>
 
 <div align="center">
 
