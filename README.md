@@ -14,7 +14,4 @@
 | [multi_mysqld_exporter](https://github.com/starsliao/multi_mysqld_exporter) | ![](https://img.shields.io/github/stars/starsliao/multi_mysqld_exporter?color=f2f08d&logo=Undertale&logoColor=eb4630) | ![](https://img.shields.io/github/forks/starsliao/multi_mysqld_exporter?color=ba86eb&logo=Handshake&logoColor=ea6aa6) |  Multi-target support  |
 
 <div align="center">
-
-[![StarsL's github stats](https://github-readme-stats.vercel.app/api?username=starsliao&show_icons=true&line_height=24&count_private=true&&hide=prs&locale=cn)](https://starsl.cn)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=starsliao&hide=javascript,css&layout=compact&card_width=230&locale=cn)](https://starsl.cn)
-![](https://activity-graph.herokuapp.com/graph?username=starsliao&theme=github)
 </div>
